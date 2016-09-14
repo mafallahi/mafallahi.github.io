@@ -1,0 +1,14 @@
+@import 'https://fonts.googleapis.com/css?family=Baloo+Tamma';
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: 'Baloo Tamma', cursive;
+    background: #fff;
+    color: #000;
+}
+
+.container {
+      margin: 20px auto;
+}
