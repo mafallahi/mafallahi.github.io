@@ -21,6 +21,14 @@ h1 {
   margin-bottom: 5%;
   text-align: center;
 }
+p{
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+
+}
 
 h2 {
   color: #555560;
@@ -31,6 +39,7 @@ h2 {
   padding: 0px;
   text-align: center;
 }
+
 .top {
   padding-top: 5rem;
 }
